@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-22T10:43:53.464Z</updated>
+  <updated>2021-08-23T06:37:42.885Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sys</title>
+    <link href="http://example.com/2021/08/23/python/%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D/sys/sys/"/>
+    <id>http://example.com/2021/08/23/python/%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D/sys/sys/</id>
+    <published>2021-08-22T16:00:00.000Z</published>
+    <updated>2021-08-23T06:37:42.885Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;sys模块&quot;&gt;&lt;a href=&quot;#sys模块&quot; class=&quot;headerlink&quot; title=&quot;sys模块&quot;&gt;&lt;/a&gt;sys模块&lt;/h2&gt;&lt;p&gt;1、简介&lt;/p&gt;
+&lt;p&gt;“sys”即“system”，“系统”之意。该模块提供了一些接口，用于访问 Python</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="http://example.com/categories/python/"/>
+    
+    
+    <category term="sys" scheme="http://example.com/tags/sys/"/>
+    
+  </entry>
   
   <entry>
     <title>tldextract</title>
